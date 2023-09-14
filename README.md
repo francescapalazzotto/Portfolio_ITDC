@@ -1,4 +1,4 @@
-# Palazzotto_Portfolio_ITDC
+# Portfolio_ITDC
 Information Theory and Data Compression portfolio containing all the exercises for the final exam of the course.
 
 These codes were made to attend the final exam of the course.
